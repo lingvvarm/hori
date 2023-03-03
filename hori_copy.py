@@ -12,7 +12,7 @@ headers = {"User-Agent": "hori_bot"}
 client = discord.Client()
 client = commands.Bot(command_prefix='h.')
 inter_client = InteractionClient(client)
-t = TenGiphPy.Tenor(token='NK5M66O2GA67')
+t = TenGiphPy.Tenor(token='your token here')
 
 def break_fix(text, width, font, draw):
     if not text:
