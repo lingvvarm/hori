@@ -162,4 +162,4 @@ async def shelby(ctx, sample=3, *,text):
 
 
 
-client.run('ODU4NzU3NDk3OTAxMTU0MzQ0.G_1fRt.UmeYkRvoDqFf26vmyy6PecXHJ8OZKUo8Cxy7-4')
+client.run('your token heres')
